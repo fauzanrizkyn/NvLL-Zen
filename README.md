@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Svelte JS, Sanity**
 
-- 👨‍💻 All of my projects are available at [https://zenriel.tech](https://zenriel.tech)
+- 👨‍💻 All of my projects are available at [https://zenryuu.vercel.app](https://zenryuu.vercel.app)
 
 - 💬 Ask me about **Svelte, Python**
 
