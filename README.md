@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvll-zen&label=Profile%20views&color=0e75b6&style=flat" alt="nvll-zen" /> </p>
 
-- 🔭 I’m currently working on [pomo-noir](https://github.com/NvLL-Zen/pomo-noir)
+- 🔭 I’m currently working on [Nusantara Pathway](https://github.com/NvLL-Zen/nstrpathway)
 
-- 🌱 I’m currently learning **Svelte JS, Sanity**
+- 🌱 I’m currently learning **Svelte JS**
 
 - 👨‍💻 All of my projects are available at [https://zenryuu.vercel.app](https://zenryuu.vercel.app)
 
 - 💬 Ask me about **Svelte, Python**
 
-- 📫 How to reach me **fauzanrizky13@smaislamsinarcendekia.sch.id**
+- 📫 How to reach me **nxll.zen@gmail.com**
 
 - ⚡ Fun fact **I love cyberpunk (as a genre), animes, and east-asian cultures**
 
